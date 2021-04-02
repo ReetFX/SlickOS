@@ -5,7 +5,7 @@ char keywords[6][6] =
     "WHOAMI",
     "PWD",
     "RUN",
-    
+    "ID",
 };
 char buffer[80];
 
